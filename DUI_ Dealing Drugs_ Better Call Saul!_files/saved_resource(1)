@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Point Trademarks - Furm</title>
+<meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=0.75, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Language" content="en" />
+<meta name="google" content="notranslate" />
+<meta name="description" content="">
+<meta property="og:title" content="Point Trademarks - Furm" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://furm.com/assets/images/page-image-default.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@AlterBusiness" />
+<link rel="shortcut icon" href="/assets/images/favicon.ico" />
+<link rel="preload" href="/assets/fonts/roboto-v18-latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/assets/fonts/roboto-v18-latin-500.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/assets/fonts/roboto-v18-latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/assets/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/assets/fonts/Material-Design-Iconic-Font.woff" as="font" type="font/woff" crossorigin="anonymous" />
+<link href="/assets/css/style.css?675672172" rel="stylesheet" type="text/css" />
+
+</head>
+<body><!-- Navigation Bar-->
+<header id="topnav">
+  <div class="topbar-main">
+    <div class="container">
+      <!-- Logo container-->
+      <div class="logo">
+        <!-- Image Logo -->
+        <a href="/"> <img src="/assets/images/logo-white.png?879977838" width="97" height="24" alt="" class="logo-lg"> </a>
+      </div>
+      <!-- End Logo container-->
+      <div id="navigation" class="nav-visitor">
+        <!-- Navigation Menu-->
+        <ul class="navigation-menu">
+          <li class="mobile">
+            <form id="searchform" role="form" action="/trademarks" method="get">
+              <div id="searchbar" class="input-group">
+				<input id="searchfield" type="text" name="q" class="form-control input-lg" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search trademarks (e.g. apple)" value="" />
+				<span class="input-group-append"><button type="submit" class="btn waves-effect waves-light btn-inverse btn-lg"><i class="md md-search"></i></button></span>
+              </div>
+            </form>
+          </li>
+        </ul>
+        <!-- End navigation menu -->
+      </div>
+      <!-- end #navigation -->
+      <div class="menu-extras topbar-custom">
+        <ul class="list-inline float-right mb-0">
+          <li class="list-inline-item dropdown notification-list"> <a class="nav-link dropdown-toggle arrow-none waves-light waves-effect" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false"> <i class="md-account-box noti-icon"></i> </a>
+            <div class="dropdown-menu dropdown-menu-right profile-dropdown dropdown-shift-n8" aria-labelledby="Preview">
+              <!-- item-->
+              <a href="/signup" class="dropdown-item notify-item"> <i class="fa fa-pencil"></i> <span>Signup</span></a>
+              <!-- item-->
+              <a href="/login" class="dropdown-item notify-item"> <i class="fa fa-sign-in"></i> <span>Login</span></a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!-- end menu-extras -->
+      <div class="clearfix"></div>
+    </div>
+    <!-- end container -->
+  </div>
+  <!-- end topbar-main -->
+</header>
+<!-- End Navigation Bar-->
+<script src="/assets/js/jquery.min.js"></script><div class="wrapper">
+  <div class="container">
+    <!-- Page-Title -->
+    <div class="row justify-content-center">
+      <div class="col-sm">
+        <div class="page-title-box">
+          <h4 class="page-title m-t-10 text-truncate">Point Trademarks</h4>
+        </div>
+      </div>
+    </div>
+    <!-- end page title -->
+	<div class="row">
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-79389146">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Silicone sealants; insulating adhesives; adhesive tapes, strips, bands and films; seals, sealants and fillers; insulating materials; insulation and barrier articles and materials; sealing compounds; adhesive sealant compounds; caulking compounds for sealing cracks; lute; thermal insulation articles and materials; acrylic resins (insulating -); sealant compounds for joints; sealants for buildings; fluid seals; polyurethane sealants; draught excluder strips; insulating paints; insulating paints...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ff8800;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Pending</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 26, 2023</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">79389146</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-flask m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 1: Chemical Products"></i><i class="fa fa-eraser m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 17: Rubber Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/79389146/55b3dc5bae967bd37ae28ee35e30f027.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-97061153">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Installation, maintenance and repair of computer servers</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 5, 2021</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">97061153</span> &nbsp;&middot;&nbsp; <span><i class="md md-business m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 35: Advertising, Business and Retail Services"></i><i class="fa fa-building m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 37: Construction & Repair Services"></i><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/97061153/fa526cf95df4e25d5b8efea338501340.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-90428794">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Teaching apparatus in the nature of artificial skin for tattoo training</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">December 30, 2020</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">90428794</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-wrench m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 8: Hand Tool Products"></i><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/90428794/d5b5eed3ea4ba3aa0069acac4ac7e82d.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-90293476">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Transport and delivery of goods</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">November 2, 2020</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">90293476</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-shipping m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 39: Transportation & Storage Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/90293476/38a6cfd8833b9fc43b74423dc056da14.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-90169080">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Providing educational information online in the field of physical fitness; educational services, namely, conducting classes in the field of mindfulness and wellness</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 9, 2020</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">90169080</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i><i class="md md-business m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 35: Advertising, Business and Retail Services"></i><i class="md md-school m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 41: Education & Entertainment Services"></i><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i><i class="fa fa-stethoscope m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 44: Medical & Beauty Services & Agricultural Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/90169080/cde7cd1ec24de548d7abed6eec4e9369.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-90126709">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Non-metal building materials, namely, tile made of stone, cement, brick and terracotta</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 20, 2020</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">90126709</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-cube m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 19: Non-Metallic Building Material Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/90126709/128bbeb57bca252552684265d8f2c0e3.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-88233117">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Training services, namely, providing web-based instruction in the field of health and disease assessments; testing services, namely, providing web-based educational testing of knowledge in the field of health and disease assessments</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">December 18, 2018</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">88233117</span> &nbsp;&middot;&nbsp; <span><i class="md md-school m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 41: Education & Entertainment Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/88233117/4cc7d83894cd4bb90c80868e2a7a225a.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-88140077">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Scales for use in the agricultural and farming industries, namely, weighing systems that incorporate load cells with electronic indicators as applied directly to implements of husbandry, animal weighing systems, and downloadable software related thereto</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 2, 2018</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">88140077</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/88140077/31eb94db4e1d8dde77b28918ec39c8cc.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-88106428">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">personal, battery-powered light with mounting bracket for attachment to clothing and to headgear</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 6, 2018</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">88106428</span> &nbsp;&middot;&nbsp; <span><i class="md md-terrain m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 11: Environmental Control Instrument Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/88106428/6debf6f4ed4fb0c778a706a4c083b587.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-87692763">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Cloud computing featuring software for use databases, electronic calendars and address books, personal profiles and person to person communications; Computer services, namely, hosting on-line interactive public calendars that allow multiple participants to share event schedules and facility reservations; Providing a web site featuring technology that enables users to share, bookmark, index, store, collect and showcase content, articles, images, calendars, products, projects, and other informa...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">November 21, 2017</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">87692763</span> &nbsp;&middot;&nbsp; <span><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/87692763/eb0dab8f8283703aafd050419ccbf1d7.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-87493762">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Lace; Embroidery; ribbons; braids; buttons; hooks and eyes; pins, namely, sewing pins, hat pins, curling pins, safety pins, bobby pins, marking pins, ornamental novelty pins; needles; artificial flowers</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 16, 2017</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">87493762</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-bookmark-o m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 26: Lace, Ribbons, Embroidery & Fancy Goods"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/87493762/a7bda3328e58c853621ce8f97f9560dc.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-87072971">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Home equity loans; Financial investment in the field of real estate; Providing information in the field of real estate via the Internet; Real estate investment services; Financing services providing option contracts secured by an interest in the underlying residential property that enable homeowners to share home equity appreciation with investors; Providing cash to homeowners in return for a share in home equity appreciation; Servicing and managing financial assets, namely, individual or poo...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 15, 2016</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">87072971</span> &nbsp;&middot;&nbsp; <span><i class="md md-account-balance m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 36: Insurance & Financial Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/87072971/ef1d10c5f0aedee24a2d0c671b8f23f4.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-86566516">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Home equity loans; Financial investment in the field of real estate; Providing information in the field of real estate via the Internet; Real estate investment services; Financing services providing option contracts secured by an interest in the underlying residential property that enable homeowners to share home equity appreciation with investors; Providing cash to homeowners in return for a share in home equity appreciation; Servicing and managing financial assets, namely, individual or poo...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">March 17, 2015</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">86566516</span> &nbsp;&middot;&nbsp; <span><i class="md md-account-balance m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 36: Insurance & Financial Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/86566516/b0d7d7a449e470a6f33539de539559ab.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-85430627">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Software for human resources; talent management software; social networking software to connect employees to the right people and networks to collaborate, interact, and share thoughts, ideas, and information to drive stronger results and productivity and to maximize time to value, service and profit</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 23, 2011</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">85430627</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/85430627/148f4b21f481b5c8cd40641e071994fd.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-85134037">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Education services, namely, providing professional learning in the nature of behavior improvement coaching to individuals and group workshops, in the field of information technology psychopathology including individual and organizational communication, collaboration, and cognitive performance optimization; Providing group coaching in the field of communication skills, conflict management, and optimal cognitive performance to improve the productivity of information technology organizations</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 20, 2010</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">85134037</span> &nbsp;&middot;&nbsp; <span><i class="md md-school m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 41: Education & Entertainment Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/85134037/e83c0da325798a6950b51160be2188ad.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-85005746">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Earphones; Microphones</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">April 3, 2010</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">85005746</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/85005746/8006cffa48aed4501379548a5b2a2948.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-79098121">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Apparatus and instruments for inspecting and evaluating the integrity and performance of oil, gas and water wells using ultrasound measurement, recording and display technology devices and other measurement technology devices, consisting of high-definition ultrasound inspection, measurement and imaging apparatus, instruments and devices for non-medical, non-destructive testing, high-definition 3D imaging apparatus, instruments and devices, and related parts and components; survey and measurem...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">December 16, 2010</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">79098121</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i><i class="fa fa-building m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 37: Construction & Repair Services"></i><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/79098121/bb583d5b4ff79aaa18909c97512311ac.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78787584">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Water chillers; Chillers for machine tools; Heat pipe heat exchangers; Panel air conditioners; Industrial chillers; Precision chillers, namely, chillers for photoelectric semiconductors; Freezers; Thermoelectric module air conditioners; Cooling air dryers</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">January 9, 2006</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78787584</span> &nbsp;&middot;&nbsp; <span><i class="md md-terrain m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 11: Environmental Control Instrument Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78787584/aa76b4812a4196c662ad3db2035a435d.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78544101">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Software for providing current and historical financial data for the creation and evaluation of fixed income indices and portfolios and providing an online computer database in the field of current and historical financial data for the creation and evaluation of fixed income indices and portfolios</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">January 7, 2005</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78544101</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i><i class="md md-account-balance m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 36: Insurance & Financial Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78544101/811d19feb4ec36dbdceb340ef5dd76a7.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78482220">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Periodicals, namely, printed magazines in the field of business and marketing</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 13, 2004</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78482220</span> &nbsp;&middot;&nbsp; <span><i class="md md-content-copy m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 16: Paper & Printed Material Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78482220/106a2fc82a6179f55cd49c4e01f241ae.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78265548">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Telecommunications services, namely, providing long distance telecommunication services by means of telephone</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 21, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78265548</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-phone m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 38: Communication Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78250141">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Cigarettes and Cigars</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">May 15, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78250141</span> &nbsp;&middot;&nbsp; <span><i class="md md-whatshot m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 34: Smoker's Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78240579">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Child evaluation services, namely, using evaluation procedures to check and confirm that children are developing in an age appropriate manner, and assessment procedures aimed at alerting parents and professionals regarding developmental differences in children ages birth to three years, and printed material distributed in connection therewith</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">April 22, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78240579</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-stethoscope m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 44: Medical & Beauty Services & Agricultural Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78219812">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Beer and soft drinks</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">February 27, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78219812</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-drink m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 32: Light Beverage Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78219812/ffb1581caefd595707363ef0c4a52854.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78216544">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Industrial safety eyewear</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">February 19, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78216544</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78216544/24b5c41dd966e79daea588a8dffb1adc.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-78157368">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Industrial safety eyewear</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 23, 2002</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">78157368</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/78157368/428e2337296338391645be0850b0d10e.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77391029">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Fiction and non-fiction books on a variety of subjects for children</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">February 7, 2008</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77391029</span> &nbsp;&middot;&nbsp; <span><i class="md md-content-copy m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 16: Paper & Printed Material Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77391029/bbde657d40ffeb4bcd4c985206062663.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77340050">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Distilled Spirits</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">November 29, 2007</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77340050</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-bar m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 33: Wines & Spirits"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77340050/4bfa9417a4f3ac8cc2f15b00f3f25341.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77269178">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Providing accommodation information, namely, ratings of accommodations; customer loyalty services and customer club services, for commercial, promotional and advertising purposes; conducting customer loyalty and incentive programs for commercial promotion and for advertising purposes; business consulting and business management services in the field of travel, travel planning and the operation of travel-related businesses</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 31, 2007</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77269178</span> &nbsp;&middot;&nbsp; <span><i class="md md-business m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 35: Advertising, Business and Retail Services"></i><i class="md md-local-shipping m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 39: Transportation & Storage Services"></i><i class="md md-store m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 43: Restaurant & Hotel Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77269178/2a53d0a4d6c2fbc5d54b598b25299e07.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77252455">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Promoting the sale of the goods and services of others through the administration of consumer loyalty incentive programs for others wherein participants accumulate value from purchases through the use of credit card accounts, debit card accounts and other banking services associated with the programs which can be redeemed for merchandise, discounts, cash prizes and rewards</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 10, 2007</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77252455</span> &nbsp;&middot;&nbsp; <span><i class="md md-business m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 35: Advertising, Business and Retail Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77252455/f0e85136e86f85dbc5d338bfcacde194.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77249699">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Chip carriers, namely, semiconductor chip housings; Amplifier for wireless communications; Antennas for wireless communications apparatus; Apparatus for wireless transmission of acoustic information; Automatic switching apparatus</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 8, 2007</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77249699</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77249699/1311017e1c90343aa79e13bedee81307.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77100036">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Lubricants, namely, hydraulic oil, transmission oil, and gear oil</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">February 6, 2007</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77100036</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-tint m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 4: Lubricant & Fuel Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77100036/f02016f4b7604330322f014d41ace9cd.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-77032410">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">shampoo, hair rinse, hair gel, hair wax, hair mousse, skin lotion, cleansing creams, cleansing water, compact pressed powder, eye cream, make-up remover, toilet soaps, general toilet water, milk lotion, lipsticks, cold creams, eye shadow, body spray, sunscreen lotion, cosmetic soap</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 30, 2006</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">77032410</span> &nbsp;&middot;&nbsp; <span><i class="md md-insert-emoticon m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 3: Cosmetics & Cleaning Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"><img a src="https://cdn.furm.com/trademarks/77032410/563680f8169b09e72bd71433ec041c25.jpg" alt="point" /></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76537272">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Computer hardware; telecommunications equipment, namely, optical switches and multiplexers</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 13, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76537272</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76521292">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Telephone prepaid calling card service</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 6, 2003</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76521292</span> &nbsp;&middot;&nbsp; <span><i class="md md-account-balance m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 36: Insurance & Financial Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76322596">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Computer software design for others in the field of public pension plans of government and municipal entities, and educational institutions</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 3, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76322596</span> &nbsp;&middot;&nbsp; <span><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76322595">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Consulting services in the field of public pension plans of government and municipal entities, and educational institutions</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 3, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76322595</span> &nbsp;&middot;&nbsp; <span><i class="md md-account-balance m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 36: Insurance & Financial Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76322594">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Computer software in the field of pension plans of government and municipal entities, and educational institutions</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">October 3, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76322594</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76287756">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Child evaluation services, namely, using evaluation procedures to check and/or confirm that children are developing in an age appropriate manner, and assessment procedures aimed at alerting parents and professionals regarding developmental differences in children ages birth to three years, and printed material distributed in connection therewith</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">July 19, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76287756</span> &nbsp;&middot;&nbsp; <span><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76287755">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Child evaluation services, namely, using evaluation procedures to check and/or confirm that children are developing in an age appropriate manner, and assessment procedures aimed at alerting parents and professionals regarding developmental differences in children ages birth to three years, and printed material distributed in connection therewith</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">July 19, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76287755</span> &nbsp;&middot;&nbsp; <span><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-76239345">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">TABLE TENNIS TABLES</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">April 12, 2001</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">76239345</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-soccer-ball-o m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 28: Toys & Sporting Goods Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75851232">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">cigarettes and cigars</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">November 16, 1999</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75851232</span> &nbsp;&middot;&nbsp; <span><i class="md md-whatshot m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 34: Smoker's Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75727178">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Bio-chemical agents for use in the manufacture and application of agricultural insecticides, herbicides, and adjuvants</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 10, 1999</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75727178</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-flask m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 1: Chemical Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75722848">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">shirts and pants</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">June 7, 1999</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75722848</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-laundry-service m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 25: Clothing & Apparel Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75682145">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">Computerized data base management in the field of real property records, business auditing, namely computerized auditing of databases in the field of real property records, business information and business research in the field of real property</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">April 13, 1999</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75682145</span> &nbsp;&middot;&nbsp; <span><i class="md md-business m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 35: Advertising, Business and Retail Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75557131">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">HEART RATE MONITORS</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">September 21, 1998</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75557131</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-hospital m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 10: Medical Instrument Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75470354">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">COMPUTER SOFTWARE FOR USE IN DESIGNING BUILDINGS; COMPUTER SOFTWARE FOR USE IN CONTROLLING, OPERATING, INTEGRATING AND MANAGING HEATING, VENTILATION AND AIR CONDITIONING SYSTEMS IN BUILDINGS; COMPUTER SOFTWARE FOR USE IN CIVIL ENGINEERING DESIGN APPLICATIONS; COMPUTER SOFTWARE FOR USE IN FACILITY MANAGEMENT; COMPUTERS; COMPUTER OPERATING SYSTEMS; COMPUTER PERIPHERALS; BLANK COMPUTER DISCS AND VIDEO TAPES FOR USE IN THE RECORDING AND REPRODUCTION OF SOUND AND IMAGES; MULTIMEDIA SOFTWARE RECORD...</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">April 20, 1998</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75470354</span> &nbsp;&middot;&nbsp; <span><i class="md md-computer m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 9: Computer & Software Products & Electrical & Scientific Products"></i><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75204882">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">sales and service of security screening equipment</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Abandoned</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">November 27, 1996</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75204882</span> &nbsp;&middot;&nbsp; <span><i class="md md-desktop-windows m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 42: Computer & Software Services & Scientific Services"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75149422">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">men's, women's and children's clothing, namely, underwear, T-shirts, sweat sets, shorts, short sets, jeans, top pants, shirts, socks, pajamas, jackets, suits, dresses and skirts; hats and shoes</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#ef4554;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Cancelled</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">August 13, 1996</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75149422</span> &nbsp;&middot;&nbsp; <span><i class="md md-local-laundry-service m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 25: Clothing & Apparel Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-60 col-md-60 col-lg-60 col-xl-60 col-xxl-60 m-b-20">
+					<div class="trademark-box">
+						<a href="/trademarks/point-75064351">
+							<div class="col-sm-44 col-md-46 col-lg-48 col-xl-50 col-xxl-50 trademark-preview">
+								<div class="trademark-mark">POINT</div>
+								<div class="trademark-description text-truncate">motor oil</div>
+                                <div class="trademark-details text-truncate text-muted"><span style="color:#2bbbad;" data-toggle="tooltip" data-placement="top" title="" data-original-title="Status">Registered</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Filing Date">February 27, 1996</span> &nbsp;&middot;&nbsp; <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Serial Number">75064351</span> &nbsp;&middot;&nbsp; <span><i class="fa fa-tint m-r-5" data-toggle="tooltip" data-placement="top" title="" data-original-title="Class 4: Lubricant & Fuel Products"></i></span></div>
+							</div>
+                            <div class="col-sm-16 col-md-14 col-lg-12 col-xl-10 col-xxl-10 trademark-image"></div>
+						</a>
+					</div>
+				</div></div><div class="row justify-content-center"><ul class="pagination justify-content-end"><li class="page-item disabled"><a class="page-link" href="#">Previous</a></li><li class="page-item active"><a class="page-link" href="#">1</a></li><li class="page-item"><a class="page-link" href="/trademarks/keywords/point?p=2">2</a></li><li class="page-item"><a class="page-link" href="/trademarks/keywords/point?p=3">3</a></li><li class="page-item disabled"><a class="page-link" href="#">...</a></li><li class="page-item"><a class="page-link" href="/trademarks/keywords/point?p=54">54</a></li><li class="page-item"><a class="page-link" href="/trademarks/keywords/point?p=2">Next</a></li> </ul></div>
+  </div>
+  <!-- end container -->
+</div>
+<!-- end wrapper --><!-- Footer -->
+<footer class="footer">
+	<div class="wrapper media-wrapper">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-60">
+                    <h5>AS SEEN ON</h5>
+					<img src="/assets/images/as-forbes-logo.webp" width="100" height="26" />
+					<img src="/assets/images/as-inc-logo.webp" width="90" height="31"  />
+					<img src="/assets/images/as-wapo-logo.webp" width="160" height="48" />
+					<img src="/assets/images/as-entrepreneur-logo.webp" width="170" height="34" />
+					<img src="/assets/images/as-usatoday-logo.webp" width="130" height="47" />
+					<img src="/assets/images/as-yahoo-logo.webp" width="120" height="33" />
+					<img src="/assets/images/as-bbc-logo.webp" width="100" height="29" />
+                </div>
+            </div>
+    	</div>
+	</div>
+	<div class="wrapper keyword-wrapper">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-60">
+					<h5>Popular Trademarks</h5>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/amazon-75008413">Amazon</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/apple-73120444">Apple</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/bank-of-america-72260715">Bank of America</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/chatgpt-97733261">ChatGPT</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/coca-cola-70022406">Coca-Cola</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/facebook-77979375">Facebook</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/google-75554461">Google</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/gucci-72300192">Gucci</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/mcdonalds-72119302">McDonald's</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/porsche-71668978">Porsche</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/rolex-71078904">Rolex</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/starbucks-73540952">Starbucks</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/nike-72414176">Nike</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/taco-bell-72223746">Taco Bell</a>
+					<a class="btn btn-sm btn-white m-r-10 m-b-15 font-13" href="/trademarks/wal-mart-73486747">Walmart</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="wrapper category-wrapper">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-60">
+					<h5>Trademark Classes</h5>
+					<ul class="category-list">
+						<li><a href="/trademarks/categories/advertising-business-and-retail-services-35">Advertising, Business and Retail Services</a></li>
+						<li><a href="/trademarks/categories/chemical-products-1">Chemical Products</a></li>
+						<li><a href="/trademarks/categories/clothing-apparel-products-25">Clothing & Apparel Products</a></li>
+						<li><a href="/trademarks/categories/communication-services-38">Communication Services</a></li>
+						<li><a href="/trademarks/categories/computer-software-products-electrical-scientific-products-9">Computer & Software & Electrical Products</a></li>
+						<li><a href="/trademarks/categories/computer-software-services-scientific-services-42">Computer & Software & Scientific Services</a></li>
+						<li><a href="/trademarks/categories/construction-repair-services-37">Construction & Repair Services</a></li>
+						<li><a href="/trademarks/categories/cosmetics-cleaning-products-3">Cosmetics & Cleaning Products</a></li>
+						<li><a href="/trademarks/categories/education-entertainment-services-41">Education & Entertainment Services</a></li>
+						<li><a href="/trademarks/categories/environmental-control-instrument-products-11">Environmental Control Instrument Products</a></li>
+						<li><a href="/trademarks/categories/fabrics-textile-products-24">Fabrics & Textile Products</a></li>
+						<li><a href="/trademarks/categories/firearm-products-13">Firearm Products</a></li>
+						<li><a href="/trademarks/categories/floor-covering-products-27">Floor Covering Products</a></li>
+						<li><a href="/trademarks/categories/furniture-products-20">Furniture Products</a></li>
+						<li><a href="/trademarks/categories/hand-tool-products-8">Hand Tool Products</a></li>
+						<li><a href="/trademarks/categories/houseware-glass-products-21">Houseware & Glass Products</a></li>
+						<li><a href="/trademarks/categories/insurance-financial-services-36">Insurance & Financial Services</a></li>
+						<li><a href="/trademarks/categories/jewelry-products-14">Jewelry Products</a></li>
+						<li><a href="/trademarks/categories/lace-ribbons-embroidery-fancy-goods-26">Lace, Ribbons, Embroidery & Fancy Goods</a></li>
+						<li><a href="/trademarks/categories/leather-products-18">Leather Products</a></li>
+						<li><a href="/trademarks/categories/light-beverage-products-32">Light Beverage Products</a></li>
+						<li><a href="/trademarks/categories/lubricant-fuel-products-4">Lubricant & Fuel Products</a></li>
+						<li><a href="/trademarks/categories/machinery-products-7">Machinery Products</a></li>
+						<li><a href="/trademarks/categories/meat-processed-food-products-29">Meat & Processed Food Products</a></li>
+						<li><a href="/trademarks/categories/medical-beauty-services-agricultural-services-44">Medical & Beauty & Agricultural Services</a></li>
+						<li><a href="/trademarks/categories/medical-instrument-products-10">Medical Instrument Products</a></li>
+						<li><a href="/trademarks/categories/metal-products-6">Metal Products</a></li>
+						<li><a href="/trademarks/categories/musical-instrument-products-15">Musical Instrument Products</a></li>
+						<li><a href="/trademarks/categories/natural-agricultural-products-31">Natural Agricultural Products</a></li>
+						<li><a href="/trademarks/categories/non-metallic-building-material-products-19">Non-Metallic Building Material Products</a></li>
+						<li><a href="/trademarks/categories/paint-products-2">Paint Products</a></li>
+						<li><a href="/trademarks/categories/paper-printed-material-products-16">Paper & Printed Material Products</a></li>
+						<li><a href="/trademarks/categories/personal-legal-social-services-45">Personal, Legal & Social Services</a></li>
+						<li><a href="/trademarks/categories/pharmaceutical-products-5">Pharmaceutical Products</a></li>
+						<li><a href="/trademarks/categories/restaurant-hotel-services-43">Restaurant & Hotel Services</a></li>
+						<li><a href="/trademarks/categories/ropes-cordage-fiber-products-22">Ropes, Cordage & Fiber Products</a></li>
+						<li><a href="/trademarks/categories/rubber-products-17">Rubber Products</a></li>
+						<li><a href="/trademarks/categories/smokers-products-34">Smoker's Products</a></li>
+						<li><a href="/trademarks/categories/staple-food-products-30">Staple Food Products</a></li>
+						<li><a href="/trademarks/categories/toys-sporting-goods-products-28">Toys & Sporting Goods Products</a></li>
+						<li><a href="/trademarks/categories/transportation-storage-services-39">Transportation & Storage Services</a></li>
+						<li><a href="/trademarks/categories/treatment-processing-of-materials-services-40">Treatment & Processing of Materials</a></li>
+						<li><a href="/trademarks/categories/vehicles-locomotive-products-12">Vehicles & Locomotive Products</a></li>
+						<li><a href="/trademarks/categories/wines-spirits-33">Wines & Spirits</a></li>
+						<li><a href="/trademarks/categories/yarns-threads-23">Yarns & Threads</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div class="wrapper">
+    	<div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-60 col-md-14 col-lg-20">
+                    <img class="logo" src="/assets/images/logo-footer.png?87944789" width="97" height="24" />
+                    <div>Furm is a <a href="/">trademark search</a> engine for businesses.</div>
+                </div>
+                <div class="col-sm-60 col-md-2 col-lg-2"></div>
+                <div class="col-sm-60 col-md-15 col-lg-12">
+                    <h5>Resources</h5>
+                    <ul>
+						<li><a href="/">Trademark Search</a></li>
+						<li><a href="/appraisals">Domain Appraisals</a></li>
+						<li><a href="/blog">Business Articles</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-60 col-md-9 col-lg-8">
+                    <h5>Company</h5>
+                    <ul>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/careers">Careers</a></li>
+                        <li><a href="/legal">Legal</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-60 col-md-9 col-lg-8">
+                    <h5>Follow</h5>
+                    <ul class="icons">
+                        <li><a href="https://twitter.com/furmcom" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+                        <li><a href="https://www.facebook.com/furmcom" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+                        <li><a href="https://www.linkedin.com/company/furmcom" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-60 col-md-11 col-lg-10">
+                    <h5>Support</h5>
+                    <ul class="icons">
+                        <li><a href="tel:833-249-6263"><i class="fa fa-phone"></i> (833) 249-6263</a></li>
+                        <li><a href="mailto:support@furm.com"><i class="fa fa-envelope"></i> support@furm.com</a></li>
+                        <li><a href="/contact"><i class="fa fa-comment"></i> Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="copyright col-60 text-center">
+                    Copyright &copy; 2024 Furm, Inc.
+                </div>
+            </div>
+        </div>
+	</div>
+</footer>
+<!-- End Footer -->
+<link href="/assets/css/bootstrap-slider.min.css" rel="stylesheet" type="text/css"/>
+<script src="/assets/js/jquery.cookie.js"></script>
+<script src="/assets/js/jquery.custom.js?98764532"></script>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', () => {setTimeout(delayedCode, 4000);});
+document.addEventListener('scroll', delayedCodeEvent);
+document.addEventListener('mousemove', delayedCodeEvent);
+document.addEventListener('touchstart', delayedCodeEvent);
+function delayedCodeEvent(event){delayedCode();event.currentTarget.removeEventListener(event.type, delayedCodeEvent);}
+function delayedCode() {
+if(window.dcInit) 
+	return false;
+window.dcInit = true;
+loadScript('/assets/js/popper.min.js');
+loadScript('/assets/js/bootstrap.min.js', function(){$('[data-toggle="tooltip"]').tooltip({trigger:'hover'});});
+loadScript('/assets/js/bootstrap-slider.min.js');
+loadScript('/assets/js/waves.min.js');
+loadScript('/assets/js/spin.min.js');
+loadScript('/assets/js/ladda.min.js');
+loadScript('/assets/js/ladda.jquery.min.js');
+<!-- Global site tag (gtag.js) - Google Analytics -->
+loadScript('https://www.googletagmanager.com/gtag/js?id=UA-129442219-1');
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-129442219-1');
+
+}
+</script></body>
+</html>
